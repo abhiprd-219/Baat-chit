@@ -1,0 +1,3 @@
+Run NPM :- npm run dev
+RUN 2 (localhost:3000) in browser tab one for sender and other for receiver.
+Enjoy using.
